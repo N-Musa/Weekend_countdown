@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/N-Musa/Weekend_countdown/issues"
   },
-  "homepage": "https://github.com/N-Musa/Weekend_countdown#readme",
-  "dependencies": {
-    "moment": "^2.29.1"
-  }
+  "homepage": "https://github.com/N-Musa/Weekend_countdown#readme"
 }
